@@ -1,6 +1,6 @@
 ﻿//lab7 Вариант 8, средний уровень
 
-Console.Write("Введите вещественное число A (>1): ");
+Console.Write("Введите вещественное число: ");
 double A = double.Parse(Console.ReadLine());
 
 int N = 1;
